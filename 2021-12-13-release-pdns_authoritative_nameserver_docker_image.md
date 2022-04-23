@@ -14,7 +14,7 @@ This is an image that pulls an Alpine Linux container, and installs PowerDNS Aut
 
 The following configuration is baked into this image:
 
-```conf
+```ini
 launch=gmysql
 gmysql-host=PLACEHOLDER_MYSQL_HOST
 gmysql-port=PLACEHOLDER_MYSQL_PORT
