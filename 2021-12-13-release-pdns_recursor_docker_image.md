@@ -15,7 +15,7 @@ This is a image that builds an Alpine Linux container, and installs pdns-recurso
 
 The following configuration is baked into this image:
 
-```conf
+```ini
 daemon=no
 local-address=0.0.0.0
 webserver=yes
